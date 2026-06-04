@@ -322,4 +322,4 @@ sudo chmod -R 755 /var/www/html
 
 Khomesh Gajbhiye
 
-Node.js Developer | AWS Cloud | Backend Engineer
+Backend Engineer | Node.js Developer | AWS Cloud Engineer | AWS Certified Solutions Architect – Associate
